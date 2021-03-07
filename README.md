@@ -11,4 +11,4 @@ JDK 11
 Eclipse
 
 # installer exe:
-https://drive.google.com/file/d/1vM0ZosVCxgBdmBVpDBzhf23sUm5Ila9t/view?usp=sharing
+https://mega.nz/file/axhXyIDR#JGrD4qUEtf5ThxJzQYg2Ule7SSJ81FrZ920cokMG2go
